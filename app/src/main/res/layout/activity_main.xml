@@ -50,13 +50,14 @@
             android:layout_height="wrap_content"
             android:text="Register User"
             android:layout_marginTop="40dp"
+            android:layout_marginLeft="120dp"
             android:background="@color/colorAccent"/>
 
         <TextView
             android:id="@+id/tvRegistered"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="45dp"
+            android:layout_marginTop="20dp"
             android:text="Already Registered Sign in"
             android:textAlignment="center"/>
 
